@@ -1,4 +1,4 @@
-# Digital-Electronics-Technology-Experiment-02
+# DET-basys3-Experiment-02-7-Segments
 实验目的：                 
 掌握用分时复用技术驱动开发板上的七段数码管。             
 实验内容：                
